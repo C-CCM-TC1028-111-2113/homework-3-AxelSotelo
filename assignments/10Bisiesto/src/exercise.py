@@ -12,7 +12,7 @@ def año(a):
         
 def main():
   #escribe tu código abajo de esta línea
-    a=int(input("Dame un año bisiesto "))
+    a=int(input(" "))
     año(a)
     
 if __name__ == '__main__':
