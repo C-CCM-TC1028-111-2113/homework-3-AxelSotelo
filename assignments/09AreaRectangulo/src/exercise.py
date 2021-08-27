@@ -1,6 +1,6 @@
 def area(b, h):
     a=b*h
-    print("El área del rectángulo es: ", a)
+    print("El área del rectángulo es:",a)
     
 def main():
   #escribe tu código abajo de esta línea
