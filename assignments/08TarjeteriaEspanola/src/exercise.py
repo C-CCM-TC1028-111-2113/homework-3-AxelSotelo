@@ -4,11 +4,11 @@ def tarjetas(pliego, plumon) :
     tarjplum= plumon*35
     
     if tarjplie < tarjplum :
-        print("El número máximo de tarjetas que se pueden hacer es: ", tarjplie)
+        print("El número máximo de tarjetas que se pueden hacer es:",tarjplie)
     elif tarjplie > tarjplum :
-        print("El número máximo de tarjetas que se pueden hacer es: ", tarjplum)
+        print("El número máximo de tarjetas que se pueden hacer es:",tarjplum)
     elif tarjplie == tarjplum:
-        print("El número máximo de tarjetas que se pueden hacer es: ", tarjplum)    
+        print("El número máximo de tarjetas que se pueden hacer es:",tarjplum)    
 
 def main():
     #escribe tu código abajo de esta línea
