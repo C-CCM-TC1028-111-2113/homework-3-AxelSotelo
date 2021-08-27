@@ -7,7 +7,7 @@ def tarjetas(pliego, plumon) :
         print("El número máximo de tarjetas que se pueden hacer es: ", tarjplie)
     elif tarjplie > tarjplum :
         print("El número máximo de tarjetas que se pueden hacer es: ", tarjplum)
-    else :
+    elif tarjplie == tarjplum:
         print("El número máximo de tarjetas que se pueden hacer es: ", tarjplum)    
 
 def main():
