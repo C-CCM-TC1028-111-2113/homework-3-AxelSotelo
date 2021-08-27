@@ -1,6 +1,5 @@
 def volumen(b, h, d):
-    v=b*h*d
-    return v
+    return b*h*d
 
 def main():
   #escribe tu código abajo de esta línea
